@@ -35,11 +35,13 @@ N.B. Column names are in dot notation format, based on field data structure e.g.
 
 All the CSVs include object ids, which can be used to reconstruct the full extracted dataset e.g. by importing each CSV into a Pandas dataframe and joining/merging the dataframes on the [id] field. 
 
-A brief commentary on data-focused work can be found here.
+Read the [brief commentary on our data-focused work](https://github.com/congruence-engine/catalogues-as-data/blob/main/museum%20online%20catalogues-as-data_data-focused%20work.pdf).
 
 ## Report and Assesment framework/matrix
 As part of this investigation a report alongside an assesment framework and matrix for museums' online catalogues has been produced.
 This report aims to contribute towards the design and development of a sector-level strategy regarding the improvement and connectivity of online catalogues of cultural heritage institutions as part of a national collection’s infrastructure. Through the investigation we embark on exploring and demystifying common practices in museum online catalogues, aiming to reveal potential obstacles that suspend their connectivity and advanced use from various users.The first part of the report offers a state-of-the-art of digital cataloguing practices in the museum sector. The second part focuses on specific technical challenges, found in online museum catalogues, by introducing a sector-specific assessment framework through a combination of empirical research and landscape analysis. For this framework we employed Science Museum Group (SMG) online collection catalogue as a case study to showcase existing challenges and limitations. Finally, in the third part a minimum technical passive provision is explored in order to serve as a foundational infrastructure for drawing together a cultural heritage national collection. The Appendix hosts two questions-as-provocations that we invite the Congruence Engine team to consider further. 
+
+Read here the [report](https://github.com/congruence-engine/catalogues-as-data/blob/main/museum%20online%20catalogues-as-data_report_FINAL.pdf).
 
 
 Please get in touch if with [Anna-Maria](annamaria.sichani@sas.ac.uk) or [Jamie](jamie.unwin@sciencemuseum.ac.uk) if you are interested in our work - we 'd love to hear from you.
