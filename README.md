@@ -13,12 +13,12 @@ In this repository you can find :
 * [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupiter Notebook containing the code used for data extraction. Data was extracted and exported as provided, no cleaning nor transformation was applied.
  
  The following are CSVs of each key fields (see [mapping](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx), with nested fields flattened and extracted into separate columns and multi-value (array) field expanded into individual rows:
-* [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_categories.csv)
-* [smg_objects_description.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_description.csv.zip)
-* [smg_objects_lifecycle_creation_date.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_lifecycle_creation_date.csv)
-* [smg_objects_materials.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_materials.csv)
-* [smg_objects_name.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_name.csv)
-* [smg_objects_title.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_title.csv.zip)
+* [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_categories.csv)
+* [smg_objects_description.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_description.csv.zip)
+* [smg_objects_lifecycle_creation_date.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_lifecycle_creation_date.csv)
+* [smg_objects_materials.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_materials.csv)
+* [smg_objects_name.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_name.csv)
+* [smg_objects_title.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_title.csv.zip)
 
  
 N.B. Column names are in dot notation format, based on field data structure e.g. [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_categories.csv):
