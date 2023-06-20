@@ -2,15 +2,15 @@
 
 ## Data and code 
 
-The 'Museums' online catalogue-as-data' investigation was developed by [@amsichani](https://github.com/amsichani) and [@jamieu](https://github.com/jamieu) as part of the [Congruence Engine](https://www.sciencemuseumgroup.org.uk/project/the-congruence-engine/) project. The investigation started with an interest to explore the museum (online) catalogues from a technical and data-point of view, in order to assess potential obstacles and weaknesses to the catalogues’ underlying data that limit their linking with other museums’ collections and records. In order to do a first assessment, we use the SMG catalogue dataset as a case-study. [@kunika](https://github.com/kunika) supported in various aspects with data/code - thanks!- and [@johnstack](https://github.com/johnstack) followed the investigation with a critical eye - cheers!.
+The 'Museums' online catalogue-as-data' investigation was developed by [@amsichani](https://github.com/amsichani) and [@jamieu](https://github.com/jamieu) as part of the [Congruence Engine](https://www.sciencemuseumgroup.org.uk/project/the-congruence-engine/) project. The investigation started with an interest to explore the museum (online) catalogues from a technical and data-point of view, in order to assess potential obstacles and weaknesses to the catalogues’ underlying data that limit their linking with other museums’ collections and records. In order to do a first assessment, we use the Science Museum Group (SMG) catalogue dataset as a case-study. [@kunika](https://github.com/kunika) supported in various aspects with data/code - thanks!- and [@johnstack](https://github.com/johnstack) followed the investigation with a critical eye - cheers!.
 
 In this repository you can find :
 
-* the SMG objects dataset as uncompressed/unzipped file can be found here : [smg_objects_06_06_2022.json](https://github.com/congruence-engine/datasets/blob/main/smg/smg_objects.md) 
-* [SMG dataset mapping.xlsx](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx): The key fields identified by AMS for analysis.
+* the SMG objects dataset can be found in [SMG's datasets repository](https://github.com/congruence-engine/datasets/blob/main/smg/smg_objects.md).
+* [SMG dataset mapping.xlsx](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx): The key fields identified by [@amsichani](https://github.com/amsichani) for analysis.
 * [smg_objects_06_06_2022_extracted.json]: Dataset containing only the key fields extracted from the SMG objects dataset.
 * [smg_objects_06_06_2022_extracted_converted.json]: Copy of smg_objects_06_06_2022_extracted.json as converted to regular JSON.
-* [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupyter Notebook containing the code used for data extraction. Data was extracted and exported as provided, no cleaning nor transformation was applied.
+* [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupyter Notebook containing the code used for data extraction. For the purpose of this investigation, data was extracted as provided and no cleaning nor transformation was applied.
  
  The following are CSVs of each key fields (see [mapping](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx), with nested fields flattened and extracted into separate columns and multi-value (array) field expanded into individual rows:
 * [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_categories.csv)
