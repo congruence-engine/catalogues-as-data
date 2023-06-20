@@ -44,4 +44,4 @@ This report aims to contribute towards the design and development of a sector-le
 Read here the [report](https://github.com/congruence-engine/catalogues-as-data/blob/main/museum%20online%20catalogues-as-data_report_FINAL.pdf).
 
 
-Please get in touch if with [Anna-Maria](annamaria.sichani@sas.ac.uk) or [Jamie](jamie.unwin@sciencemuseum.ac.uk) if you are interested in our work - we 'd love to hear from you.
+Please get in touch if with [Anna-Maria](mailto:annamaria.sichani@sas.ac.uk) or [Jamie](mailto:jamie.unwin@sciencemuseum.ac.uk) if you are interested in our work - we 'd love to hear from you.
