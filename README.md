@@ -10,7 +10,7 @@ In this repository you can find :
 * [SMG dataset mapping.xlsx](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx): The key fields identified by AMS for analysis.
 * [smg_objects_06_06_2022_extracted.json]: Dataset containing only the key fields extracted from the SMG objects dataset.
 * [smg_objects_06_06_2022_extracted_converted.json]: Copy of smg_objects_06_06_2022_extracted.json as converted to regular JSON.
-* [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupiter Notebook containing the code used for data extraction. Data was extracted and exported as provided, no cleaning nor transformation was applied.
+* [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupyter Notebook containing the code used for data extraction. Data was extracted and exported as provided, no cleaning nor transformation was applied.
  
  The following are CSVs of each key fields (see [mapping](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx), with nested fields flattened and extracted into separate columns and multi-value (array) field expanded into individual rows:
 * [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_categories.csv)
