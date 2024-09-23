@@ -11,6 +11,8 @@ In this repository you can find :
 * [smg_objects_06_06_2022_extracted.json]: Dataset containing only the key fields extracted from the SMG objects dataset.
 * [smg_objects_06_06_2022_extracted_converted.json]: Copy of smg_objects_06_06_2022_extracted.json as converted to regular JSON.
 * [smg_objects.ipynb](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects.ipynb): Jupyter Notebook containing the code used for data extraction. For the purpose of this investigation, data was extracted as provided and no cleaning nor transformation was applied.
+
+
  
  The following are CSVs of each key fields (see [mapping](https://github.com/congruence-engine/catalogues-as-data/blob/main/SMG%20dataset%20mapping.xlsx), with nested fields flattened and extracted into separate columns and multi-value (array) field expanded into individual rows:
 * [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_categories.csv)
@@ -41,7 +43,7 @@ Read the [brief commentary on our data-focused work](https://github.com/congruen
 As part of this investigation a report alongside an assesment framework and matrix for museums' online catalogues has been produced.
 This report aims to contribute towards the design and development of a sector-level strategy regarding the improvement and connectivity of online catalogues of cultural heritage institutions as part of a national collection’s infrastructure. Through the investigation we embark on exploring and demystifying common practices in museum online catalogues, aiming to reveal potential obstacles that suspend their connectivity and advanced use from various users.The first part of the report offers a state-of-the-art of digital cataloguing practices in the museum sector. The second part focuses on specific technical challenges, found in online museum catalogues, by introducing a sector-specific assessment framework through a combination of empirical research and landscape analysis. For this framework we employed Science Museum Group (SMG) online collection catalogue as a case study to showcase existing challenges and limitations. Finally, in the third part a minimum technical passive provision is explored in order to serve as a foundational infrastructure for drawing together a cultural heritage national collection. The Appendix hosts two questions-as-provocations that we invite the Congruence Engine team to consider further. 
 
-Read here the [report](https://github.com/congruence-engine/catalogues-as-data/blob/main/museum%20online%20catalogues-as-data_report_FINAL.pdf).
+Read here the [full report](https://github.com/congruence-engine/catalogues-as-data/blob/main/museum%20online%20catalogues-as-data_report_FINAL.pdf).
 
 
 Please get in touch if with [Anna-Maria](mailto:annamaria.sichani@sas.ac.uk) or [Jamie](mailto:jamie.unwin@sciencemuseum.ac.uk) if you are interested in our work - we 'd love to hear from you.
