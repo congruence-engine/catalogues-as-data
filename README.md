@@ -23,16 +23,6 @@ In this repository you can find :
 * [smg_objects_title.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/data/smg_objects_title.csv.zip)
 
  
-N.B. Column names are in dot notation format, based on field data structure e.g. [smg_objects_categories.csv](https://github.com/congruence-engine/catalogues-as-data/blob/main/smg_objects_categories.csv):
-| JSON                                | CSV |
-| ------------------------------------| ---------------------- |
-| "categories": [                     |                 |  
-|    {                                |                    |
-|       "museum": "SCM"               |  category.museum    |
-|"name": "Veterinary Medicine"        |  category.name    |
-| "value": "SCM - Veterinary Medicine"|   category.value   |
-| }
-]
 
 
 All the CSVs include object ids, which can be used to reconstruct the full extracted dataset e.g. by importing each CSV into a Pandas dataframe and joining/merging the dataframes on the [id] field. 
