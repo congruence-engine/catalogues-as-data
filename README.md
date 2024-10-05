@@ -1,8 +1,37 @@
 # _Museums' online catalogue-as-data_ investigation
 
-## Data and code 
+## Short summary
 
-The 'Museums' online catalogue-as-data' investigation was developed by [@amsichani](https://github.com/amsichani) and [@jamieu](https://github.com/jamieu) as part of the [Congruence Engine](https://www.sciencemuseumgroup.org.uk/project/the-congruence-engine/) project. The investigation started with an interest to explore the museum (online) catalogues from a technical and data-point of view, in order to assess potential obstacles and weaknesses to the catalogues’ underlying data that limit their linking with other museums’ collections and records. In order to do a first assessment, we use the Science Museum Group (SMG) catalogue dataset as a case-study. [@kunika](https://github.com/kunika) supported in various aspects with data/code - thanks!- and [@johnstack](https://github.com/johnstack) followed the investigation with a critical eye - cheers!.
+In the field of digital cultural heritage, museum collections are often seen as ideal datasets for computationally-driven research and work. Not surprisingly, museum online catalogues are thus used as a public-facing entry point to museum collections, enhancing collections’ access and exploration while ensuring engagement with various audiences.
+Museum online catalogues are rich information architectures/carriers/structures, usually including digitised versions/surrogates of the analogue assets alongside associated metadata in various formats, combined with data management and search tools. 
+
+Although large focus and investment in the digital cultural heritage sector is given into understand and assess (digital) cataloguing practices as well as into experimenting with interface design and ‘generous interfaces’, advanced computing power and functionalities of online catalogues, the connecting tissue that will allow connectivity between online museum catalogues, and thus collections, is still a desideratum. 
+
+In addition to this, online museum catalogues and corresponding digital collections have been allowing users to leverage computational methods like machine learning, computer vision, text mining, visualization, and network analysis. However, the outcomes of these computational attempts have not been questioned about the degree of bias they contained, assuming that collections and catalogues are unbiased.
+
+Museum online catalogues-as-data draws inspiration from recent GLAM initiatives on the area of Collections-as-data (Padilla et al 2018) and highlights one of the most important topics in digital cultural heritage and digital scholarship today: connectivity/functionality. 
+
+
+## Research Questions
+
+- Why can't we link different online museum catalogues and collections efficiently and easily? What would be the useful joining points? What would be required to produce these links?
+- 
+- What are the strengths and weaknesses of the underlying data, for what type of usage, and how can we address those weaknesses ?
+
+
+Through this investigation we seek to assess online museum catalogues-as-data, by assessing existing literature on digital cataloguing practices and user/audience needs as well as by tracing data disparities and gaps by (historical) cataloguing practices, as found in online museum catalogues, using the Science Museum Group online catalogue as case-study. 
+
+## People
+
+Anna-Maria Sichani : Conceptualization, Data curation, Formal analysis, Methodology, Software, Writing- original draft & editing 
+
+Jaimie Unwin : Conceptualization, Methodology, Software, Writing – review & editing
+
+John Stack : Writing – review & editing
+
+Kunika Kono : Software, Writing – review & editing
+
+--
 
 In this repository you can find :
 
