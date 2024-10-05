@@ -1,4 +1,4 @@
-# _Museums' online catalogue-as-data_ investigation
+# Museums' online catalogues-as-data
 
 ## Short summary
 
@@ -15,7 +15,7 @@ Museum online catalogues-as-data draws inspiration from recent GLAM initiatives 
 ## Research Questions
 
 - Why can't we link different online museum catalogues and collections efficiently and easily? What would be the useful joining points? What would be required to produce these links?
-- 
+  
 - What are the strengths and weaknesses of the underlying data, for what type of usage, and how can we address those weaknesses ?
 
 
@@ -23,13 +23,17 @@ Through this investigation we seek to assess online museum catalogues-as-data, b
 
 ## People
 
-Anna-Maria Sichani : Conceptualization, Data curation, Formal analysis, Methodology, Software, Writing- original draft & editing 
+#### Anna-Maria Sichani 
+Conceptualization, Data curation, Formal analysis, Methodology, Software, Writing- original draft & editing 
 
-Jaimie Unwin : Conceptualization, Methodology, Software, Writing – review & editing
+#### Jaimie Unwin 
+Conceptualization, Methodology, Software, Writing – review & editing
 
-John Stack : Writing – review & editing
+#### John Stack 
+Writing – review & editing
 
-Kunika Kono : Software, Writing – review & editing
+#### Kunika Kono 
+Software, Writing – review & editing
 
 --
 
