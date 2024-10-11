@@ -1,4 +1,4 @@
-# _Museums' online catalogue-as-data_ investigation
+# Museums' online catalogue-as-data
 
 ## Data and code 
 
